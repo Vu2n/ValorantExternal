@@ -1,10 +1,8 @@
-# ValorantExternal
-My old ( very pasted ) valorant external
+18-01-23
 
-Updated to latest patch 07/12/22
-Is quite good 
-doesnt come with Visual Check so add that yourself
+Deleted the source because its broken and detected, will add the fixed one when i can be bothered.
 
-Defo Detected but idc cause i dont use it anymore
+Or i might not..... i dont know yet
 
-Enjoy i guess lol
+
+Contact me: Vu2n#4665
